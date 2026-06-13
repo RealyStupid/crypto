@@ -1,0 +1,10 @@
+base58==2.1.1
+certifi==2026.5.20
+cffi==2.0.0
+charset-normalizer==3.4.7
+cryptography==49.0.0
+idna==3.18
+pycparser==3.0
+python-bitcoinlib==0.12.2
+requests==2.34.2
+urllib3==2.7.0
