@@ -1,1 +1,1 @@
-.venv
+a basic wallet maker for shops and shi
